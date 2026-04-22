@@ -1,0 +1,26 @@
+# 🌐 Girisha Dham Group Website
+
+## 📌 Project Overview
+Girisha Dham Group is a real estate web application designed to showcase property listings, services, and company information in a professional and user-friendly way. The platform helps users explore plots, view property details, and connect with the company for inquiries.
+
+---
+
+## 🚀 Features
+- 🏡 Property Listings with Images  
+- 📄 Detailed Property Information  
+- 📱 Responsive Design (Mobile-Friendly)  
+- 📞 Contact & Inquiry Form  
+- 🧭 Easy Navigation UI  
+- 📊 Real Estate Marketing Focus  
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- IDE: Visual Studio  
+
+---
+
+## 📷 Screenshots
+<img width="1765" height="852" alt="image" src="https://github.com/user-attachments/assets/0c9b1d86-6aca-46c3-8670-2922dcc33d89" />
+
